@@ -1,3 +1,8 @@
+.first-section {
+    margin: 5px;
+    padding: 5px;
+}
+
 .first-section h1 {
     text-align: center;
     color: darkmagenta;
@@ -15,6 +20,11 @@
 .first-section img {
     height: 650px;
     width: 750px;
+}
+
+.second-section {
+    margin: 5px;
+    padding: 5px;
 }
 
 .second-section h1 {
