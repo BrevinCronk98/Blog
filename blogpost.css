@@ -1,0 +1,37 @@
+.first-section h1 {
+    text-align: center;
+    color: darkmagenta;
+    text-decoration: underline;
+    text-decoration-color: gold;
+    text-shadow: 2px 2px rgb(202, 178, 41);
+}
+
+.first-section p {
+    color: maroon;
+    text-align: center;
+    font-size: 25px;
+}
+
+.first-section img {
+    height: 650px;
+    width: 750px;
+}
+
+.second-section h1 {
+    color: aquamarine;
+    font-size: 35px;
+    text-decoration: underline;
+    text-decoration-color: crimson;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+.second-section p {
+    font-size: 35px;
+    color: crimson;
+    text-align: center;
+}
+
+body {
+    background-color: thistle;
+}
